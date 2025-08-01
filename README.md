@@ -13,7 +13,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone [<YOUR_GIT_URL>](https://github.com/ruhul-amin-xxl/jukebox-remix-tool)
+git clone https://github.com/ruhul-amin-xxl/jukebox-remix-tool
 
 # Step 2: Navigate to the project directory.
 cd jukebox-remix-tool
