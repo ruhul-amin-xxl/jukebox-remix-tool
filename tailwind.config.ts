@@ -24,6 +24,9 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				'dropzone': 'hsl(var(--dropzone))',
+				'dropzone-border': 'hsl(var(--dropzone-border))',
+				'dropzone-active': 'hsl(var(--dropzone-active))',
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
@@ -62,6 +65,11 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				}
+			},
+			backgroundImage: {
+				'gradient-primary': 'var(--gradient-primary)',
+				'gradient-background': 'var(--gradient-background)', 
+				'gradient-card': 'var(--gradient-card)',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
